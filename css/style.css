@@ -80,9 +80,9 @@ body {
   justify-content: space-between; }
 
 .hotel-view {
-  background-color: orangered;
   flex: 1;
-  height: 120vh; }
+  height: 120vh;
+  background-color: orangered; }
 
 .logo {
   height: 3.25rem;
